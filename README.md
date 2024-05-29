@@ -1,12 +1,11 @@
-Hi there 👋 
+Hi there!
+----------
 
-My name is Hans Kruger
-============================
+My name is Hans Kruger.
 
-Senior Software Engineer
-------------------------
+I am a senior software engineer, with a strong background designing and building global cloud-based services. My most recent experience is in the Payments industry. 
 
-I have a strong background designing and building global cloud-based services, most recently in the Payments industry. I'm seeking to make an engineering and business contribution as a senior software engineer, to modernise and improve cloud-based services, with a focus on excellence and industry best practices.
+I get a kick from solving hairy business problems with software, and I like to modernise and improve cloud-based services, while focussing on excellence and industry best practices.
 
 *   🌍 I'm based in Melbourne, Australia
 *   ✉️  You can contact me at [hans.j.kruger@gmail.com](mailto:hans.j.kruger@gmail.com)
