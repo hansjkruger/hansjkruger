@@ -9,4 +9,4 @@ Seriously, who doesn't, right?
 
 *   🌍 I'm based in Melbourne, Australia
 *   ✉️  You can contact me at [hans.j.kruger@gmail.com](mailto:hans.j.kruger@gmail.com)
-*   🧠 I'm studying towards achieving the AWS Developer Associate certification.
+*   🧠 I'm currently studying towards smashing the AWS Developer Associate certification.
