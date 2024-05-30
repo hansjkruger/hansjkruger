@@ -1,11 +1,11 @@
 Hi there!
 ----------
 
-I am a senior software engineer, with a strong background designing and building global cloud-based services. My most recent experience is in the Payments industry. 
+I am a software engineer who loves to "play Lego with software". 
 
-I get a kick from solving hairy business problems with software. I like to modernise and improve solutions using cloud-based services, while focussing on excellence and industry best practices.
+I have a passion to build systems and infrastructure that scale globally using the cloud, and see them run like clockwork in real life, for the benefit of delighted clients and businesses alike.
 
-Seriously, who doesn't, right?
+Seriously, who doesn't like Lego, right?
 
 *   🌍 I'm based in Melbourne, Australia
 *   ✉️  You can contact me at [hans.j.kruger@gmail.com](mailto:hans.j.kruger@gmail.com)
